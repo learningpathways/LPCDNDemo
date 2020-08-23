@@ -9,7 +9,8 @@
   "ContentPacks": [],
   "AssetOrigins": [
     "https://support.office.com",
-    "https://docs.microsoft.com"
+    "https://docs.microsoft.com",
+    "https://www.google.com/"
   ],
   "Languages": [
     "en-US"
